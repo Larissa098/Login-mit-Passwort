@@ -19,6 +19,6 @@ Dieses Programm ist ein Login mit zwei bereits registrierten Usern. Es fragt, an
 - Code ist übersichtlich dargestellt, verständlich für jeden
 
 ## Reflexion der letzten Wochen im Informatikunterricht:
-Wir haben gelernt, wie man mit der Programmiersprache Python einfache kleine Programme erstellt. Wie man Listen, Funktionen, Conditionals und Variabeln in diesen Programmen verwendet, wurde uns auch beigebracht. Ich habe gelernt, dass 
+Wir haben gelernt, wie man mit der Programmiersprache Python einfache kleine Programme erstellt. Wie man Listen, Funktionen, Conditionals und Variabeln in diesen Programmen verwendet, wurde uns auch beigebracht. Ich habe gelernt, dass bereits das Schreiben einfacher Programme relativ schwer ist und Zeit kostet. 
 
 
