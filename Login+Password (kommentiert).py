@@ -5,7 +5,7 @@ z=input("Bitte geben sie ihr Passwort ein: ")
 
 ########################################################################################################
 # Falls der Benutzername Anna_Müller und das Passwort coolheit ist, wird "Herzlich Willkommen Anna" ausgegeben. 
-if x == "Anna_Stöckli"and z =="coolheit": 
+if x == "Anna_Mueller"and z =="coolheit": 
     print("Herzlich Willkommen Anna")
 #Falls der Benutzername Max_Meyer und das Passwort hallo123 ist, wird "Herzlich Willkommen Max" ausgegeben. 
 elif x == "Max_Meyer"and z =="hallo123":
