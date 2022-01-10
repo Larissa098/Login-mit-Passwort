@@ -7,6 +7,7 @@ Dieses Programm ist ein Login mit zwei bereits registrierten Usern. Es fragt, an
 
 ## Screenshot von einem möglichen Ausgabeterminal: 
   <img width="290" alt="Screenshot von Login mit Passwort Ausgabe" src="https://user-images.githubusercontent.com/97455290/148786942-2a06b68c-826c-49b9-a9f2-b33c5174a852.png">
+  
   <img width="320" alt="Screenshot von Login mit Passwort Ausgabe 2" src="https://user-images.githubusercontent.com/97455290/148788212-298aa87a-794f-4327-930d-0ed631f4cee4.png">
   <img width="336" alt="Screenshot von Login mit Passwort Ausgabe 3" src="https://user-images.githubusercontent.com/97455290/148788956-c6eae193-b2ed-4ec2-94eb-e37333eb3132.png">
 
@@ -15,6 +16,9 @@ Dieses Programm ist ein Login mit zwei bereits registrierten Usern. Es fragt, an
 - Sicherer als viele herkömmliche Logins (Programm fragt nach Benutzername und Passwort, bevor er einen Fehler ausgibt)
 - Weitere Benutzer können mitels "elif" schnell und unaufwändig hinzugefügt werden
 - Benutzernamen und Passworte können einfach verändert werden
-- Code ist übersichtlich
+- Code ist übersichtlich dargestellt, verständlich für jeden
+
+## Reflexion der letzten Wochen im Informatikunterricht:
+Wir haben gelernt, wie man mit der Programmiersprache Python einfache kleine Programme erstellt. Wie man Listen, Funktionen, Conditionals und Variabeln in diesen Programmen verwendet, wurde uns auch beigebracht. Ich habe gelernt, dass 
 
 
